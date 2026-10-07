@@ -95,3 +95,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A responsive front-end project built to present biographical content in a clear and structured webpage. It demonstrates semantic HTML, CSS layout, responsive design and the fundamentals of organizing content for an accessible user experience.
